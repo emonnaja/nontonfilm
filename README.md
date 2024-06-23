@@ -1,2 +1,2 @@
-# nontonfilm
-Watch movies, live tv, and tv series without subscriptions.
+# NontonFilm.
+Watch movies, live tv, and tv series without subscriptions (Indonesian sub only).
